@@ -83,6 +83,7 @@
     "@types/node": "^20.9.0",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
+    "@vercel/node": "^5.8.22",
     "@vitejs/plugin-react-swc": "^3.4.1",
     "autoprefixer": "^10.4.16",
     "baseline-browser-mapping": "^2.9.13",
